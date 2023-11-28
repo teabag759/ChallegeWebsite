@@ -1,21 +1,22 @@
 body {
     text-align: center;
-    background-color: ;
+    background-color: #F5F5F5;
+    margin: 50px;
 }
 
 h1 {
     font-family:'Oswald', sans-serif; 
-    color: royalblue;
+    color: #363062;
 }
 
 p {
     font-family: 'Fira Sans', sans-serif; 
-    color: rgb(71, 70, 70);
+    color: #1F1717;
 }
 
 
 a {
-    color: rgb(170, 96, 83);
+    color: #335af3;
     text-decoration: none;
 }
 
@@ -30,7 +31,6 @@ img {
 }  
 
 #todays_challenge {
-    color: rgb(170, 96, 83);
-    font-weight: bold;
+    color: #1F1717;
     font-size: 52px;
 }
