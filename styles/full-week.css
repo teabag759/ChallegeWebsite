@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 52px;
+    color: #495E57;
+}
+
+a {
+    font-family: 'Fira Sans', sans-serif;
+    color: #335af3;
+    text-decoration: none;
+}
+
+p {
+    font-family: 'Fira Sans';
+    font-size: medium;
+}
+
+a:hover {
+    cursor: pointer;
+}

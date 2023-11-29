@@ -1,0 +1,32 @@
+body {
+    margin: 50px;
+}
+
+h1 {
+    font-family:'Oswald', sans-serif; 
+    color: #363062;
+}
+
+p {
+    color: #1F1717;
+}
+
+
+/* a {
+
+}
+
+a:hover {
+    
+} */
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}  
+
+#todays_challenge {
+    color: #1F1717;
+    font-size: 52px;
+}
